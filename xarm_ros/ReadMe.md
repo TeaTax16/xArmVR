@@ -59,7 +59,7 @@ $ ros2 launch xarm_moveit_config xarm6_moveit_fake.launch.py
   - Select `obstacles.scene`
 
 
-## ROS 2 Setup complete, continue setup from [Unity Repo](https://github.com/TeaTax16/xarm_unity)
+## ROS 2 Setup complete, continue setup on [Unity side](https://github.com/TeaTax16/xArmVR/tree/main/xarm_unity)
 
 
 
