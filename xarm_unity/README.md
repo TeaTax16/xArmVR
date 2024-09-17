@@ -1,7 +1,7 @@
 # xarm_unity
 
 ## 1. Pre-Requisites
-- ### 1.1 Complete Setup from [xarm_ros](https://github.com/TeaTax16/xarm_ros)
+- ### 1.1 Complete Setup from [xarm_ros](https://github.com/TeaTax16/xArmVR/tree/main/xarm_ros/xarm_ros2)
 - ### 1.2 Install Unity Editor [v2021.1.7f1](https://unity.com/releases/editor/archive)
 
 ## 2. Setup Instructions
